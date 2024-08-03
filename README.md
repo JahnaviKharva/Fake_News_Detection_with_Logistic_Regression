@@ -1,2 +1,4 @@
 # Fake_News_Detection_with_Logistic_Regression
 "Detect fake news using logistic regression. Python project with scikit-learn. Train model on Kaggle dataset. Contributions welcome. MIT License."
+Dataset 
+https://docs.google.com/spreadsheets/d/10Cq70VX6PZHo7Plawxok1Hr33cbkG-s3qSFewjV1jCI/edit?usp=drivesdk
