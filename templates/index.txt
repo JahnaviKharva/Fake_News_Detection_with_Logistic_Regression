@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fake News Prediction</title>
+</head>
+<body>
+    <h1>Fake News Prediction</h1>
+    <form action="/predict" method="POST">
+        <label for="news_text">Enter the news text:</label><br><br>
+        <textarea id="news_text" name="news_text" rows="5" cols="40"></textarea><br><br>
+        <input type="submit" value="Predict">
+    </form>
+</body>
+</html>
