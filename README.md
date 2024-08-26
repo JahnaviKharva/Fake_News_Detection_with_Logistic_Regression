@@ -3,3 +3,5 @@
 Dataset 
 https://docs.google.com/spreadsheets/d/10Cq70VX6PZHo7Plawxok1Hr33cbkG-s3qSFewjV1jCI/edit?usp=drivesdk
 The files are on the master branch
+Deployed web app:
+https://fake-news-detection-with-logistic.onrender.com/
